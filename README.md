@@ -19,6 +19,7 @@ This sample includes:
 * tests/ - this directory contains unit tests for your application
 * template-configuration.json - this file contains the project ARN with placeholders used for tagging resources with the project ID
 * Hi
+* how are you
 
 Getting Started
 ---------------
